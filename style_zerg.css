@@ -1,0 +1,270 @@
+body{
+    font-family: 'Lemonada', cursive;
+    background-image: url(image/Fon.jpg);
+    background-size: 100%;
+}
+.Zerg{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 20%;
+    margin-left: 600px;
+    opacity: 0.8;
+    font-size: 30px;
+}
+
+.drone{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 15px;
+}
+.i1{
+    margin-left: 40px;
+    border-radius: 20px;
+}
+.Overseere{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 300px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i2{
+    margin-left: 290px;
+    border-radius: 20px;
+}
+.Queen{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 550px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i3{
+    margin-left: 540px;
+    border-radius: 20px;
+}
+.Zergling{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 790px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i4{
+    margin-left: 780px;
+    border-radius: 20px;
+}
+.Baneling{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 1030px;
+    margin-top:-200px ;
+    font-size: 15px;
+}
+.i5{
+    margin-left: 1020px;
+    border-radius: 20px;
+}
+.Roach{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 1260px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i6{
+    margin-left: 1250px;
+    border-radius: 20px;
+}
+.Hydralisk{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 50px;
+    font-size: 15px;
+}
+.i7{
+    margin-left: 40px;
+    border-radius: 20px;
+}
+.Infestor{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 300px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i8{
+    margin-left: 290px;
+    border-radius: 20px;
+}
+.Swarm_hosts{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 550px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i9{
+    margin-left: 540px;
+    border-radius: 20px;
+}
+.Ultralisk{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 790px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i10{
+    margin-left: 780px;
+    border-radius: 20px;
+}
+.Mutalisk{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 1020px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i11{
+    margin-left: 1010px;
+    border-radius: 20px;
+}
+.Corruptor{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 1260px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i12{
+    margin-left: 1250px;
+    border-radius: 20px;
+}
+.Broodlord{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 550px;
+    font-size: 15px;
+}
+.i13{
+    margin-left: 540px;
+    border-radius: 20px;
+}
+.Viper{
+    background-color: #AD3D9F;
+    color:#ffffff;
+    margin: 10px;
+    padding: 10 px;
+    border: 7px solid #240C23;
+    border-radius: 13px;
+    box-shadow: 8px 8px 8px #240C23;
+    text-align: center;
+    width: 110px;
+    margin-left: 790px;
+    margin-top: -200px;
+    font-size: 15px;
+}
+.i14{
+    margin-left: 780px;
+    border-radius: 20px;
+}
